@@ -26,7 +26,7 @@ public class TestBitOP {
 		System.out.println(1 ^ 1);
 		System.out.println("===========");
 		// 位元反轉
-		System.out.println(~0);
+		System.out.println(!!0);
 	}
 
 }
